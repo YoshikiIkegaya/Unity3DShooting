@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0646E020-A7EC-878B-DFF6-9F9DD4526A2E}") = "unity3dShooting", "Assembly-CSharp.csproj", "{07D28E5D-9A96-BC42-740E-BD0B6A49DF30}"
+EndProject
+Project("{0646E020-A7EC-878B-DFF6-9F9DD4526A2E}") = "unity3dShooting", "Assembly-CSharp-Editor.csproj", "{228FEB40-0558-740F-321A-03E899E56DE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07D28E5D-9A96-BC42-740E-BD0B6A49DF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D28E5D-9A96-BC42-740E-BD0B6A49DF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D28E5D-9A96-BC42-740E-BD0B6A49DF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D28E5D-9A96-BC42-740E-BD0B6A49DF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228FEB40-0558-740F-321A-03E899E56DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228FEB40-0558-740F-321A-03E899E56DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228FEB40-0558-740F-321A-03E899E56DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228FEB40-0558-740F-321A-03E899E56DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
